@@ -1,4 +1,5 @@
-[![Bastoji-wallet](/images/top-logo.jpg)](https://itunes.apple.com/app/Bastoji-walletwallet/id885251393)
+[![Bastoji-wallet](/images/)]
+#(https://itunes.apple.com/app/Bastoji-walletwallet/id885251393)
 
 ## The easy and secure bitcoin wallet
 
@@ -16,7 +17,7 @@ Unlike other iOS bitcoin wallets, **Bastoji-wallet** is a standalone bitcoin cli
 
 Simplicity and ease-of-use is **Bastoji-wallet**'s core design principle. A simple recovery phrase (which we call a paper key) is all that is needed to restore the user's wallet if they ever lose or replace their device. **Bastoji-wallet** is [deterministic](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), which means the user's balance and transaction history can be recovered just from the paper key.
 
-![screenshots](/images/screenshots.jpg)
+![screenshots](/images/bastoji.jpg)
 
 ### Features
 
@@ -60,4 +61,4 @@ Any jailbreak app can grant itself access to every other app's keychain data. Th
 
 **Bastoji-wallet** is open source and available under the terms of the MIT license.
 
-Source code is available at https://github.com/Bastoji-walletwallet
+Source code is available at https://github.com/sqoin/bastoji-ios
