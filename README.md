@@ -1,5 +1,4 @@
 [![Bastoji-wallet](/images/BASTOJI-WALLET.jpg)](https://itunes.apple.com/app/Bastoji-walletwallet/id885251393)
-
 ## The easy and secure bitcoin wallet
 
 Bastoji-wallet is the best way to get started with bitcoin. Our simple, streamlined design is easy for beginners, yet powerful enough for experienced users.
