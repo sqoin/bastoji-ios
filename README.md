@@ -1,4 +1,4 @@
-[![Bastoji-wallet](/images/top-logo.jpg)](https://itunes.apple.com/app/Bastoji-walletwallet/id885251393)
+[![Bastoji-wallet](/images/BASTOJI-WALLET.jpg)](https://itunes.apple.com/app/Bastoji-walletwallet/id885251393)
 
 ## The easy and secure bitcoin wallet
 
